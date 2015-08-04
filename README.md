@@ -1,4 +1,4 @@
-# DSndALGO: Data Structures and Algorithms
+# DSALGO: Data Structures and Algorithms
 Implementation of Data Structure and Algorithms in Javascript.
 
 1. Linked List
